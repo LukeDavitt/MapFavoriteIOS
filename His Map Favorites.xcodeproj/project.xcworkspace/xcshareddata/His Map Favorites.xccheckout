@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>D6A942BD-9122-4CC3-BB62-562AE7378C00</string>
+	<key>IDESourceControlProjectName</key>
+	<string>His Map Favorites</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>40E78425AC059B81EB493338FBB93235A91D2EA1</key>
+		<string>github.com:LukeDavitt/iOSTutorialApps.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>His Map Favorites/His Map Favorites.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>40E78425AC059B81EB493338FBB93235A91D2EA1</key>
+		<string>../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>github.com:LukeDavitt/iOSTutorialApps.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>40E78425AC059B81EB493338FBB93235A91D2EA1</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>40E78425AC059B81EB493338FBB93235A91D2EA1</string>
+			<key>IDESourceControlWCCName</key>
+			<string>iosApps</string>
+		</dict>
+	</array>
+</dict>
+</plist>
